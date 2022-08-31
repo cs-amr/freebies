@@ -283,3 +283,19 @@ ul li:hover {
     margin-bottom: 2rem;
     margin-left: 25%;
 }
+/* ///////// */
+.global .container h1{
+    max-width: 30%;
+    margin: auto;
+    margin-bottom: 2rem;
+    text-align: center;
+    color: var(--h-color);
+}
+.global .container p {
+    width: 60%;
+    margin: auto;
+    margin-bottom: 2rem;
+    text-align: center;
+    color: var(--p-color);
+}
+
